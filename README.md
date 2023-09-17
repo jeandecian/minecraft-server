@@ -11,3 +11,7 @@ sh server_build.sh
 sh server_config.sh
 sh server_start.sh
 ```
+
+### Maintenance
+
+* Backup: `server_backup.sh`

@@ -22,6 +22,14 @@ sh server_start.sh
 
 ## Structure
 
+```
+.
+├── backups/
+├── minecraft/
+├── host_setup.sh
+└── server_*.sh
+```
+
 ## Compatibility
 
 | Hardware                      | Operating System              |

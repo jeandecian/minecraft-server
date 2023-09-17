@@ -8,4 +8,5 @@
 sh host_setup.sh
 sh server_setup.sh
 sh server_build.sh
+sh server_config.sh
 ```

@@ -20,6 +20,9 @@ sh server_start.sh
 
 ## Plugins
 
+- [Graves](https://www.spigotmc.org/resources/graves.74208/)
+- [Waypoints](https://www.spigotmc.org/resources/waypoints.66647/)
+
 ## Structure
 
 ```

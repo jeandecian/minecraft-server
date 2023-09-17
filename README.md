@@ -16,3 +16,4 @@ sh server_start.sh
 
 * Backup: `server_backup.sh`
 * Reset: `server_reset.sh`
+* Restore: `server_restore.sh`

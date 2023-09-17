@@ -15,3 +15,4 @@ sh server_start.sh
 ### Maintenance
 
 * Backup: `server_backup.sh`
+* Reset: `server_reset.sh`
